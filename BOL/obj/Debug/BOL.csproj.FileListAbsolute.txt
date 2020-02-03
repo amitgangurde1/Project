@@ -1,0 +1,11 @@
+D:\RaviT\DAC_Course\DAC\DAC_KnowITAug19\DotNet\Day_8\OnlineShoppingSolution\BOL\bin\Debug\BOL.dll
+D:\RaviT\DAC_Course\DAC\DAC_KnowITAug19\DotNet\Day_8\OnlineShoppingSolution\BOL\bin\Debug\BOL.pdb
+D:\RaviT\DAC_Course\DAC\DAC_KnowITAug19\DotNet\Day_8\OnlineShoppingSolution\BOL\obj\Debug\BOL.csproj.CoreCompileInputs.cache
+D:\RaviT\DAC_Course\DAC\DAC_KnowITAug19\DotNet\Day_8\OnlineShoppingSolution\BOL\obj\Debug\BOL.dll
+D:\RaviT\DAC_Course\DAC\DAC_KnowITAug19\DotNet\Day_8\OnlineShoppingSolution\BOL\obj\Debug\BOL.pdb
+C:\Users\dacstudent\Downloads\OnlineShoppingSolution\BOL\bin\Debug\BOL.dll
+C:\Users\dacstudent\Downloads\OnlineShoppingSolution\BOL\bin\Debug\BOL.pdb
+C:\Users\dacstudent\Downloads\OnlineShoppingSolution\BOL\obj\Debug\BOL.csprojAssemblyReference.cache
+C:\Users\dacstudent\Downloads\OnlineShoppingSolution\BOL\obj\Debug\BOL.csproj.CoreCompileInputs.cache
+C:\Users\dacstudent\Downloads\OnlineShoppingSolution\BOL\obj\Debug\BOL.dll
+C:\Users\dacstudent\Downloads\OnlineShoppingSolution\BOL\obj\Debug\BOL.pdb
