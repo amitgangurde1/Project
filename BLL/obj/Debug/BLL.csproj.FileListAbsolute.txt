@@ -1,0 +1,11 @@
+D:\RaviT\DAC_Course\DAC\DAC_KnowITAug19\DotNet\Day_8\OnlineShoppingSolution\BLL\bin\Debug\BLL.dll
+D:\RaviT\DAC_Course\DAC\DAC_KnowITAug19\DotNet\Day_8\OnlineShoppingSolution\BLL\bin\Debug\BLL.pdb
+D:\RaviT\DAC_Course\DAC\DAC_KnowITAug19\DotNet\Day_8\OnlineShoppingSolution\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+D:\RaviT\DAC_Course\DAC\DAC_KnowITAug19\DotNet\Day_8\OnlineShoppingSolution\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\RaviT\DAC_Course\DAC\DAC_KnowITAug19\DotNet\Day_8\OnlineShoppingSolution\BLL\obj\Debug\BLL.dll
+D:\RaviT\DAC_Course\DAC\DAC_KnowITAug19\DotNet\Day_8\OnlineShoppingSolution\BLL\obj\Debug\BLL.pdb
+D:\RaviT\DAC_Course\DAC\DAC_KnowITAug19\DotNet\Day_8\OnlineShoppingSolution\BLL\bin\Debug\BOL.dll
+D:\RaviT\DAC_Course\DAC\DAC_KnowITAug19\DotNet\Day_8\OnlineShoppingSolution\BLL\bin\Debug\DAL.dll
+D:\RaviT\DAC_Course\DAC\DAC_KnowITAug19\DotNet\Day_8\OnlineShoppingSolution\BLL\bin\Debug\BOL.pdb
+D:\RaviT\DAC_Course\DAC\DAC_KnowITAug19\DotNet\Day_8\OnlineShoppingSolution\BLL\bin\Debug\DAL.pdb
+D:\RaviT\DAC_Course\DAC\DAC_KnowITAug19\DotNet\Day_8\OnlineShoppingSolution\BLL\obj\Debug\BLL.csproj.CopyComplete
